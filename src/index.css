@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 2rem;
+  background: #5cdcff;
+  background: linear-gradient(180deg, rgba(92, 220, 255, 1) 0%, rgba(255, 255, 255, 1) 100%);
+  color: #ffffff;
+}
+
+/* input, select, button {
+  display: block;
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+} */
